@@ -1,0 +1,20 @@
+{
+  "unversionedId": "Start/Introduction",
+  "id": "Start/Introduction",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "As organizations from different sectors move their computing workloads across multiple environments, from on-premises to public cloud to Edge, they require greater assurances that their sensitive code and data are protected. This is especially true for sectors like banking & finance; government & public sector; telecommunications; Internet of Things (IoT); healthcare (e.g. HIPAA); customer data (e.g. GDPR); sensitive enterprise functions; defence; and human rights.",
+  "source": "@site/docs/Start/Introduction.md",
+  "sourceDirName": "Start",
+  "slug": "/Start/Introduction",
+  "permalink": "/docs/Start/Introduction",
+  "editUrl": "https://github.com/enarx/docs/blob/main/docs/Start/Introduction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "TEE",
+    "permalink": "/docs/Start/TEE"
+  }
+}

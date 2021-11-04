@@ -1,0 +1,28 @@
+{
+  "permalink": "/resources/2020-10-15-confidential-computing",
+  "source": "@site/resources/2020-10-15-confidential-computing.md",
+  "title": "Confidential Computing",
+  "description": "Confidential computing technology protects data during processing. Exclusive control of encryption keys delivers stronger end-to-end data security in the cloud.",
+  "date": "2020-10-15T00:00:00.000Z",
+  "formattedDate": "October 15, 2020",
+  "tags": [
+    {
+      "label": "Article",
+      "permalink": "/resources/tags/article"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Nataraj Nagaratnam"
+    }
+  ],
+  "prevItem": {
+    "title": "2020-10-27 Outreach Meeting",
+    "permalink": "/resources/2020/10/27/outreach-meeting"
+  },
+  "nextItem": {
+    "title": "2020-10-13 Outreach Meeting",
+    "permalink": "/resources/2020/10/13/outreach-meeting"
+  }
+}

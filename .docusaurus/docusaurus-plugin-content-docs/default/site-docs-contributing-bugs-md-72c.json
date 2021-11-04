@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Contributing/Bugs",
+  "id": "Contributing/Bugs",
+  "isDocsHomePage": false,
+  "title": "Bugs",
+  "description": "The Enarx project welcomes contributions!",
+  "source": "@site/docs/Contributing/Bugs.md",
+  "sourceDirName": "Contributing",
+  "slug": "/Contributing/Bugs",
+  "permalink": "/docs/Contributing/Bugs",
+  "editUrl": "https://github.com/enarx/docs/blob/main/docs/Contributing/Bugs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PRs",
+    "permalink": "/docs/Contributing/PRs"
+  },
+  "next": {
+    "title": "RFCs",
+    "permalink": "/docs/Contributing/RFCs"
+  }
+}

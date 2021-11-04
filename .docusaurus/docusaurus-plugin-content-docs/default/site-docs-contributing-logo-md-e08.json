@@ -1,0 +1,15 @@
+{
+  "unversionedId": "Contributing/Logo",
+  "id": "Contributing/Logo",
+  "isDocsHomePage": false,
+  "title": "Enarx logo",
+  "description": "The Enarx logo is available as an SVG, both in a black and white version, on transparent background.",
+  "source": "@site/docs/Contributing/Logo.md",
+  "sourceDirName": "Contributing",
+  "slug": "/Contributing/Logo",
+  "permalink": "/docs/Contributing/Logo",
+  "editUrl": "https://github.com/enarx/docs/blob/main/docs/Contributing/Logo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

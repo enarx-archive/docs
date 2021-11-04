@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Contributing/Docs",
+  "id": "Contributing/Docs",
+  "isDocsHomePage": false,
+  "title": "Docs",
+  "description": "The Enarx project welcomes contributions!",
+  "source": "@site/docs/Contributing/Docs.md",
+  "sourceDirName": "Contributing",
+  "slug": "/Contributing/Docs",
+  "permalink": "/docs/Contributing/Docs",
+  "editUrl": "https://github.com/enarx/docs/blob/main/docs/Contributing/Docs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "RFCs",
+    "permalink": "/docs/Contributing/RFCs"
+  },
+  "next": {
+    "title": "Outreach",
+    "permalink": "/docs/Contributing/Outreach"
+  }
+}

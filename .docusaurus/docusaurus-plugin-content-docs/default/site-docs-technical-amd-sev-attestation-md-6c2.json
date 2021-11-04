@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Technical/AMD-SEV-Attestation",
+  "id": "Technical/AMD-SEV-Attestation",
+  "isDocsHomePage": false,
+  "title": "AMD SEV Remote Attestation Protocol",
+  "description": "Summary",
+  "source": "@site/docs/Technical/AMD-SEV-Attestation.md",
+  "sourceDirName": "Technical",
+  "slug": "/Technical/AMD-SEV-Attestation",
+  "permalink": "/docs/Technical/AMD-SEV-Attestation",
+  "editUrl": "https://github.com/enarx/docs/blob/main/docs/Technical/AMD-SEV-Attestation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AMD SEV",
+    "permalink": "/docs/Technical/AMD-SEV"
+  },
+  "next": {
+    "title": "AMD-SNP",
+    "permalink": "/docs/Technical/AMD-SNP"
+  }
+}

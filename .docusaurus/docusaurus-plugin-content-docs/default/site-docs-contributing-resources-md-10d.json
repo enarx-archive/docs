@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Contributing/Resources",
+  "id": "Contributing/Resources",
+  "isDocsHomePage": false,
+  "title": "Resources",
+  "description": "Here are a few resources to help you get started with contributing to Enarx (and to free and open source projects in general).",
+  "source": "@site/docs/Contributing/Resources.md",
+  "sourceDirName": "Contributing",
+  "slug": "/Contributing/Resources",
+  "permalink": "/docs/Contributing/Resources",
+  "editUrl": "https://github.com/enarx/docs/blob/main/docs/Contributing/Resources.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/Contributing/Introduction"
+  },
+  "next": {
+    "title": "Code",
+    "permalink": "/docs/Contributing/Code"
+  }
+}

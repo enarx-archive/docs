@@ -1,0 +1,32 @@
+{
+  "permalink": "/resources/2020-01-23-lightweight-vms-for-serverless-and-containers",
+  "source": "@site/resources/2020-01-23-lightweight-vms-for-serverless-and-containers.md",
+  "title": "Lightweight VMs for serverless and containers",
+  "description": "Cloud-based services have introduced a new kind of workload composed mainly by short-lived, ephemeral processes. This is a significant departure from traditional virtualization workloads, where VMs (Virtual Machines) are expected to run uninterrupted for a large amount of time, even surviving Host migrations. New needs called for new optimization techniques, which in turn triggered the creation of specialized VMMs (Virtual Machine Monitors) and the adaptation of the existing ones, alongside with the development of new isolation techniques.",
+  "date": "2020-01-23T00:00:00.000Z",
+  "formattedDate": "January 23, 2020",
+  "tags": [
+    {
+      "label": "Event",
+      "permalink": "/resources/tags/event"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Sergio Lopez",
+      "title": "Principal Software Engineer",
+      "url": "https://github.com/slp",
+      "imageURL": "https://github.com/slp.png",
+      "key": "sergio"
+    }
+  ],
+  "prevItem": {
+    "title": "Enarx - secured, attested execution on any cloud",
+    "permalink": "/resources/2020-01-23-enarx-secured-attested-execution-on-any-cloud"
+  },
+  "nextItem": {
+    "title": "What's HTTPS for secure computing?",
+    "permalink": "/resources/2020-01-08-whats-https-for-secure-computing"
+  }
+}

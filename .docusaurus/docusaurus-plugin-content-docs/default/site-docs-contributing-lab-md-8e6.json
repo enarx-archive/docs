@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Contributing/Lab",
+  "id": "Contributing/Lab",
+  "isDocsHomePage": false,
+  "title": "Lab Machines",
+  "description": "Enarx requires specific hardware to run – and by extension to develop – namely a CPU with a supported Trusted Execution Environment.",
+  "source": "@site/docs/Contributing/Lab.md",
+  "sourceDirName": "Contributing",
+  "slug": "/Contributing/Lab",
+  "permalink": "/docs/Contributing/Lab",
+  "editUrl": "https://github.com/enarx/docs/blob/main/docs/Contributing/Lab.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Outreach",
+    "permalink": "/docs/Contributing/Outreach"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/Technical/Introduction"
+  }
+}

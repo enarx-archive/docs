@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Technical/AMD-SEV",
+  "id": "Technical/AMD-SEV",
+  "isDocsHomePage": false,
+  "title": "AMD SEV",
+  "description": "Hardware requirements",
+  "source": "@site/docs/Technical/AMD-SEV.md",
+  "sourceDirName": "Technical",
+  "slug": "/Technical/AMD-SEV",
+  "permalink": "/docs/Technical/AMD-SEV",
+  "editUrl": "https://github.com/enarx/docs/blob/main/docs/Technical/AMD-SEV.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Vulnerabilities and Attacks",
+    "permalink": "/docs/Technical/Vulnerabilities-Attacks"
+  },
+  "next": {
+    "title": "AMD SEV Remote Attestation Protocol",
+    "permalink": "/docs/Technical/AMD-SEV-Attestation"
+  }
+}

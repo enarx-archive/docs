@@ -1,0 +1,15 @@
+{
+  "unversionedId": "Contributing/Developer-Resources",
+  "id": "Contributing/Developer-Resources",
+  "isDocsHomePage": false,
+  "title": "Developer Resources",
+  "description": "On this page you will find information for developers interested in technical details about how Enarx works, how the project is developed and how to contribute to development.",
+  "source": "@site/docs/Contributing/Developer-Resources.md",
+  "sourceDirName": "Contributing",
+  "slug": "/Contributing/Developer-Resources",
+  "permalink": "/docs/Contributing/Developer-Resources",
+  "editUrl": "https://github.com/enarx/docs/blob/main/docs/Contributing/Developer-Resources.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

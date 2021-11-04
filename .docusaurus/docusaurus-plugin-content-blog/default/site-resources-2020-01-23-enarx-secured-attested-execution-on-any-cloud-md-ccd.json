@@ -1,0 +1,30 @@
+{
+  "permalink": "/resources/2020-01-23-enarx-secured-attested-execution-on-any-cloud",
+  "source": "@site/resources/2020-01-23-enarx-secured-attested-execution-on-any-cloud.md",
+  "title": "Enarx - secured, attested execution on any cloud",
+  "description": "In this talk, we will explain the security and confidentiality implications of current software deployment, the possibilities offered by Trusted Execution Environments as well as the new challenges they create, and present Enarx, a project supported by Red Hat and part of the Confidential Computing Consortium, which works to streamline secure software deployment while maintaining the highest security standards.",
+  "date": "2020-01-23T00:00:00.000Z",
+  "formattedDate": "January 23, 2020",
+  "tags": [
+    {
+      "label": "Event",
+      "permalink": "/resources/tags/event"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Ben Fischer",
+      "title": "Product Marketing Manager",
+      "key": "ben"
+    }
+  ],
+  "prevItem": {
+    "title": "Running Sensitive Workloads on Untrusted Hosts: Project Enarx",
+    "permalink": "/resources/2020-02-23-running-sensitive-workloads-on-untrusted-hosts-project-enarx"
+  },
+  "nextItem": {
+    "title": "Lightweight VMs for serverless and containers",
+    "permalink": "/resources/2020-01-23-lightweight-vms-for-serverless-and-containers"
+  }
+}

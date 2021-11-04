@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Technical/AMD-SNP",
+  "id": "Technical/AMD-SNP",
+  "isDocsHomePage": false,
+  "title": "AMD-SNP",
+  "description": "AMD SNP, or Secure Nested Pages, a newly announced extension of SEV.",
+  "source": "@site/docs/Technical/AMD-SNP.md",
+  "sourceDirName": "Technical",
+  "slug": "/Technical/AMD-SNP",
+  "permalink": "/docs/Technical/AMD-SNP",
+  "editUrl": "https://github.com/enarx/docs/blob/main/docs/Technical/AMD-SNP.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AMD SEV Remote Attestation Protocol",
+    "permalink": "/docs/Technical/AMD-SEV-Attestation"
+  },
+  "next": {
+    "title": "Intel SGX",
+    "permalink": "/docs/Technical/Intel-SGX"
+  }
+}

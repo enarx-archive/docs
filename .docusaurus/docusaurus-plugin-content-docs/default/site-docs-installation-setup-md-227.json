@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Installation/Setup",
+  "id": "Installation/Setup",
+  "isDocsHomePage": false,
+  "title": "Initial Setup",
+  "description": "Install Dependencies",
+  "source": "@site/docs/Installation/Setup.md",
+  "sourceDirName": "Installation",
+  "slug": "/Installation/Setup",
+  "permalink": "/docs/Installation/Setup",
+  "editUrl": "https://github.com/enarx/docs/blob/main/docs/Installation/Setup.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Requirements",
+    "permalink": "/docs/Installation/Requirements"
+  },
+  "next": {
+    "title": "Installing Enarx",
+    "permalink": "/docs/Installation/Enarx"
+  }
+}

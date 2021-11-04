@@ -1,0 +1,247 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "Start/Introduction",
+          "docs": [
+            {
+              "id": "Contributing/Bugs",
+              "path": "/docs/Contributing/Bugs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Contributing/Code",
+              "path": "/docs/Contributing/Code",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Contributing/Coding-Style",
+              "path": "/docs/Contributing/Coding-Style",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Contributing/Demo-videos",
+              "path": "/docs/Contributing/Demo-videos"
+            },
+            {
+              "id": "Contributing/Demo-videos-2019",
+              "path": "/docs/Contributing/Demo-videos-2019"
+            },
+            {
+              "id": "Contributing/Developer-Resources",
+              "path": "/docs/Contributing/Developer-Resources"
+            },
+            {
+              "id": "Contributing/Docs",
+              "path": "/docs/Contributing/Docs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Contributing/Introduction",
+              "path": "/docs/Contributing/Introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Contributing/Lab",
+              "path": "/docs/Contributing/Lab",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Contributing/Library-–-Press",
+              "path": "/docs/Contributing/Library-–-Press"
+            },
+            {
+              "id": "Contributing/Logo",
+              "path": "/docs/Contributing/Logo"
+            },
+            {
+              "id": "Contributing/Outreach",
+              "path": "/docs/Contributing/Outreach",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Contributing/PRs",
+              "path": "/docs/Contributing/PRs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Contributing/Resources",
+              "path": "/docs/Contributing/Resources",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Contributing/RFCs",
+              "path": "/docs/Contributing/RFCs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Installation/Conclusion",
+              "path": "/docs/Installation/Conclusion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Installation/Enarx",
+              "path": "/docs/Installation/Enarx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Installation/Introduction",
+              "path": "/docs/Installation/Introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Installation/Requirements",
+              "path": "/docs/Installation/Requirements",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Installation/Setup",
+              "path": "/docs/Installation/Setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Installation/Wasm",
+              "path": "/docs/Installation/Wasm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Start/Conclusion",
+              "path": "/docs/Start/Conclusion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Start/Enarx",
+              "path": "/docs/Start/Enarx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Start/Introduction",
+              "path": "/docs/Start/Introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Start/TEE",
+              "path": "/docs/Start/TEE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technical/AMD-SEV",
+              "path": "/docs/Technical/AMD-SEV",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technical/AMD-SEV-Attestation",
+              "path": "/docs/Technical/AMD-SEV-Attestation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technical/AMD-SNP",
+              "path": "/docs/Technical/AMD-SNP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technical/Builds",
+              "path": "/docs/Technical/Builds",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technical/Cases",
+              "path": "/docs/Technical/Cases",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technical/Components",
+              "path": "/docs/Technical/Components",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technical/Design",
+              "path": "/docs/Technical/Design",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technical/FAQ",
+              "path": "/docs/Technical/FAQ",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technical/Hardware",
+              "path": "/docs/Technical/Hardware",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technical/In-depth-Project-Presentation-slides",
+              "path": "/docs/Technical/In-depth-Project-Presentation-slides"
+            },
+            {
+              "id": "Technical/Intel-SGX",
+              "path": "/docs/Technical/Intel-SGX",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technical/Intel-SGX-Measurement",
+              "path": "/docs/Technical/Intel-SGX-Measurement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technical/Introduction",
+              "path": "/docs/Technical/Introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technical/Problem",
+              "path": "/docs/Technical/Problem",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technical/Process-Flow",
+              "path": "/docs/Technical/Process-Flow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technical/Runtime",
+              "path": "/docs/Technical/Runtime",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technical/Syscall-Proxy",
+              "path": "/docs/Technical/Syscall-Proxy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technical/TEE",
+              "path": "/docs/Technical/TEE",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technical/Threat",
+              "path": "/docs/Technical/Threat",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technical/Trust-Architecture",
+              "path": "/docs/Technical/Trust-Architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technical/Vulnerabilities-Attacks",
+              "path": "/docs/Technical/Vulnerabilities-Attacks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Technical/WebAssembly",
+              "path": "/docs/Technical/WebAssembly",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

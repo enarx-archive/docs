@@ -1,0 +1,32 @@
+{
+  "permalink": "/resources/2021-06-22-confidential-compute-whats-it-all-about",
+  "source": "@site/resources/2021-06-22-confidential-compute-whats-it-all-about.md",
+  "title": "Confidential Compute, what’s it all about?",
+  "description": "Panel discussion",
+  "date": "2021-06-22T00:00:00.000Z",
+  "formattedDate": "June 22, 2021",
+  "tags": [
+    {
+      "label": "Event",
+      "permalink": "/resources/tags/event"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Mike Bursell",
+      "title": "Co-founder of Enarx",
+      "url": "https://github.com/MikeCamel",
+      "imageURL": "https://github.com/MikeCamel.png",
+      "key": "mike"
+    }
+  ],
+  "prevItem": {
+    "title": "What Is WebAssembly",
+    "permalink": "/resources/2021-07-07-what-is-webassembly"
+  },
+  "nextItem": {
+    "title": "What is Confidential Computing and Why Should I Care?",
+    "permalink": "/resources/2021-06-08-what-is-confidential-computing-and-why-should-i-care"
+  }
+}

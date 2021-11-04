@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Installation/Introduction",
+  "id": "Installation/Introduction",
+  "isDocsHomePage": false,
+  "title": "Introduction",
+  "description": "Enarx currently has support for Intel SGX and AMD SEV-SNP. Please check the Requirements.",
+  "source": "@site/docs/Installation/Introduction.md",
+  "sourceDirName": "Installation",
+  "slug": "/Installation/Introduction",
+  "permalink": "/docs/Installation/Introduction",
+  "editUrl": "https://github.com/enarx/docs/blob/main/docs/Installation/Introduction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Conclusion",
+    "permalink": "/docs/Start/Conclusion"
+  },
+  "next": {
+    "title": "Requirements",
+    "permalink": "/docs/Installation/Requirements"
+  }
+}

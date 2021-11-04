@@ -1,0 +1,30 @@
+{
+  "permalink": "/resources/2020/06/26/outreach-meeting",
+  "source": "@site/resources/2020-06-26-outreach-meeting.md",
+  "title": "2020-06-26 Outreach Meeting",
+  "description": "Present",
+  "date": "2020-06-26T00:00:00.000Z",
+  "formattedDate": "June 26, 2020",
+  "tags": [
+    {
+      "label": "Meeting",
+      "permalink": "/resources/tags/meeting"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Enarx",
+      "imageURL": "https://github.com/enarxbot.png",
+      "key": "enarx"
+    }
+  ],
+  "prevItem": {
+    "title": "Running Sensitive Workloads on Untrusted Hosts: Project Enarx",
+    "permalink": "/resources/2020-06-28-running-sensitive-workloads-on-untrusted-hosts-project-enarx"
+  },
+  "nextItem": {
+    "title": "2020-06-19 Outreach Meeting",
+    "permalink": "/resources/2020/06/19/outreach-meeting"
+  }
+}

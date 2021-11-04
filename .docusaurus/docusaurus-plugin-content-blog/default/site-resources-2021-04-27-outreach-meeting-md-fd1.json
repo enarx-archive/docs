@@ -1,0 +1,30 @@
+{
+  "permalink": "/resources/2021/04/27/outreach-meeting",
+  "source": "@site/resources/2021-04-27-outreach-meeting.md",
+  "title": "2021-04-27 Outreach Meeting",
+  "description": "Mike",
+  "date": "2021-04-27T00:00:00.000Z",
+  "formattedDate": "April 27, 2021",
+  "tags": [
+    {
+      "label": "Meeting",
+      "permalink": "/resources/tags/meeting"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Enarx",
+      "imageURL": "https://github.com/enarxbot.png",
+      "key": "enarx"
+    }
+  ],
+  "prevItem": {
+    "title": "Confidential Computing Across Multiple Clouds and Platforms: Project Enarx",
+    "permalink": "/resources/2021-05-16-confidential-computing-across-multiple-clouds-and-platforms-project-enarx"
+  },
+  "nextItem": {
+    "title": "2021-04-13 Outreach Meeting",
+    "permalink": "/resources/2021/04/13/outreach-meeting"
+  }
+}

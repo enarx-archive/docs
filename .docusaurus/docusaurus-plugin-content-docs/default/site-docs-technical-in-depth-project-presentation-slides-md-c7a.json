@@ -1,0 +1,15 @@
+{
+  "unversionedId": "Technical/In-depth-Project-Presentation-slides",
+  "id": "Technical/In-depth-Project-Presentation-slides",
+  "isDocsHomePage": false,
+  "title": "In-depth-Project-Presentation-slides",
+  "description": "On this page, you will find a general presentation about Enarx, suitable for explaining the project, its mission, its choices.",
+  "source": "@site/docs/Technical/In-depth-Project-Presentation-slides.md",
+  "sourceDirName": "Technical",
+  "slug": "/Technical/In-depth-Project-Presentation-slides",
+  "permalink": "/docs/Technical/In-depth-Project-Presentation-slides",
+  "editUrl": "https://github.com/enarx/docs/blob/main/docs/Technical/In-depth-Project-Presentation-slides.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

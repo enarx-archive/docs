@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Technical/Process-Flow",
+  "id": "Technical/Process-Flow",
+  "isDocsHomePage": false,
+  "title": "Process-Flow",
+  "description": "This is a high-level view of the Enarx process flow.",
+  "source": "@site/docs/Technical/Process-Flow.md",
+  "sourceDirName": "Technical",
+  "slug": "/Technical/Process-Flow",
+  "permalink": "/docs/Technical/Process-Flow",
+  "editUrl": "https://github.com/enarx/docs/blob/main/docs/Technical/Process-Flow.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "WebAssembly",
+    "permalink": "/docs/Technical/WebAssembly"
+  },
+  "next": {
+    "title": "Syscall Proxy",
+    "permalink": "/docs/Technical/Syscall-Proxy"
+  }
+}

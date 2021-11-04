@@ -1,0 +1,39 @@
+{
+  "permalink": "/resources/2020-04-27-enarx-secured-attested-execution-on-any-cloud",
+  "source": "@site/resources/2020-04-27-enarx-secured-attested-execution-on-any-cloud.md",
+  "title": "Enarx - Secured, Attested Execution on any Cloud",
+  "description": "Encryption in transit done. Encryption in use? That's what Enarx aims to solve using TEEs and by providing a practical application deployment system plus hardware attestation. This demo from Mike Bursell and Nathaniel McCallum will show basic Enarx functionality on actual hardware.",
+  "date": "2020-04-27T00:00:00.000Z",
+  "formattedDate": "April 27, 2020",
+  "tags": [
+    {
+      "label": "Event",
+      "permalink": "/resources/tags/event"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Mike Bursell",
+      "title": "Co-founder of Enarx",
+      "url": "https://github.com/MikeCamel",
+      "imageURL": "https://github.com/MikeCamel.png",
+      "key": "mike"
+    },
+    {
+      "name": "Nathaniel McCallum",
+      "title": "Co-founder of Enarx",
+      "url": "https://github.com/npmccallum",
+      "imageURL": "https://github.com/npmccallum.png",
+      "key": "nathaniel"
+    }
+  ],
+  "prevItem": {
+    "title": "An Enarx milestone: binaries",
+    "permalink": "/resources/2020-04-27-an-enarx-milestone-binaries"
+  },
+  "nextItem": {
+    "title": "Running Sensitive Workloads on Untrusted Hosts: Project Enarx",
+    "permalink": "/resources/2020-02-23-running-sensitive-workloads-on-untrusted-hosts-project-enarx"
+  }
+}

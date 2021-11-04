@@ -1,0 +1,32 @@
+{
+  "permalink": "/resources/2020-06-28-enarx-secured-attested-execution-on-any-cloud",
+  "source": "@site/resources/2020-06-28-enarx-secured-attested-execution-on-any-cloud.md",
+  "title": "Enarx - secured, attested execution on any cloud",
+  "description": "Traditionally, when you run a workload in a VM, container or in a serverless environment, that workload is vulnerable to interference by any person or software with hypervisor, root or kernel access. That turns out to be quite a few people one has little choice but to trust, both in the cloud, of course, but also on one’s own hardware. The Enarx project aims to mitigate this by leveraging the hardware-based security properties offered by the Trusted Execution Environments (TEEs) found on recent CPUs. Enarx will make it simple to deploy workloads to a variety of TEEs in the public cloud, making it possible to deploy confidential workloads to third party servers without needing to relinquish trust to those who operate them.",
+  "date": "2020-06-28T00:00:00.000Z",
+  "formattedDate": "June 28, 2020",
+  "tags": [
+    {
+      "label": "Event",
+      "permalink": "/resources/tags/event"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Axel Simon",
+      "title": "Security Team",
+      "url": "https://github.com/axelsimon",
+      "imageURL": "https://github.com/axelsimon.png",
+      "key": "axel"
+    }
+  ],
+  "prevItem": {
+    "title": "Enarx – project maturity update",
+    "permalink": "/resources/2020-06-30-enarx-project-maturity-update"
+  },
+  "nextItem": {
+    "title": "Running Sensitive Workloads on Untrusted Hosts: Project Enarx",
+    "permalink": "/resources/2020-06-28-running-sensitive-workloads-on-untrusted-hosts-project-enarx"
+  }
+}

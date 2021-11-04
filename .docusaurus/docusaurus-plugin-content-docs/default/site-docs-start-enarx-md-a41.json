@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Start/Enarx",
+  "id": "Start/Enarx",
+  "isDocsHomePage": false,
+  "title": "Enarx",
+  "description": "Enarx is a framework for running applications in TEE instances – which we refer to as “Keeps”–without the need to trust lots of dependencies, without the need to rewrite the application, and without the need to implement attestation separately.",
+  "source": "@site/docs/Start/Enarx.md",
+  "sourceDirName": "Start",
+  "slug": "/Start/Enarx",
+  "permalink": "/docs/Start/Enarx",
+  "editUrl": "https://github.com/enarx/docs/blob/main/docs/Start/Enarx.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TEE",
+    "permalink": "/docs/Start/TEE"
+  },
+  "next": {
+    "title": "Conclusion",
+    "permalink": "/docs/Start/Conclusion"
+  }
+}

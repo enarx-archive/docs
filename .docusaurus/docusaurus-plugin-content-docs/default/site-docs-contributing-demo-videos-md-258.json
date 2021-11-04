@@ -1,0 +1,15 @@
+{
+  "unversionedId": "Contributing/Demo-videos",
+  "id": "Contributing/Demo-videos",
+  "isDocsHomePage": false,
+  "title": "Demo-videos",
+  "description": "Here are two short demo videos of an early build (April 2020) of core Enarx functionality in action.",
+  "source": "@site/docs/Contributing/Demo-videos.md",
+  "sourceDirName": "Contributing",
+  "slug": "/Contributing/Demo-videos",
+  "permalink": "/docs/Contributing/Demo-videos",
+  "editUrl": "https://github.com/enarx/docs/blob/main/docs/Contributing/Demo-videos.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

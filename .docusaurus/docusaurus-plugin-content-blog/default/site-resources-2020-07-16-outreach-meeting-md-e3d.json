@@ -1,0 +1,30 @@
+{
+  "permalink": "/resources/2020/07/16/outreach-meeting",
+  "source": "@site/resources/2020-07-16-outreach-meeting.md",
+  "title": "2020-07-16 Outreach Meeting",
+  "description": "Nathaniel (briefly)",
+  "date": "2020-07-16T00:00:00.000Z",
+  "formattedDate": "July 16, 2020",
+  "tags": [
+    {
+      "label": "Meeting",
+      "permalink": "/resources/tags/meeting"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Enarx",
+      "imageURL": "https://github.com/enarxbot.png",
+      "key": "enarx"
+    }
+  ],
+  "prevItem": {
+    "title": "Why Confidential Computing Is a Game Changer",
+    "permalink": "/resources/2020-08-04-why-confidential-computing-is-a-game-changer"
+  },
+  "nextItem": {
+    "title": "2020-07-09 Outreach Meeting",
+    "permalink": "/resources/2020/07/09/outreach-meeting"
+  }
+}

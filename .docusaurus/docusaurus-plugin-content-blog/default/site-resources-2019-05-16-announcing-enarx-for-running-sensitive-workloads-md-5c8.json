@@ -1,0 +1,32 @@
+{
+  "permalink": "/resources/2019-05-16-announcing-enarx-for-running-sensitive-workloads",
+  "source": "@site/resources/2019-05-16-announcing-enarx-for-running-sensitive-workloads.md",
+  "title": "Announcing Enarx for running sensitive workloads",
+  "description": "Enarx leverages the capabilities of a TEE to change the trust model for your application.",
+  "date": "2019-05-16T00:00:00.000Z",
+  "formattedDate": "May 16, 2019",
+  "tags": [
+    {
+      "label": "Article",
+      "permalink": "/resources/tags/article"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Mike Bursell",
+      "title": "Co-founder of Enarx",
+      "url": "https://github.com/MikeCamel",
+      "imageURL": "https://github.com/MikeCamel.png",
+      "key": "mike"
+    }
+  ],
+  "prevItem": {
+    "title": "Trust No One, Run Everywhere–Introducing Enarx",
+    "permalink": "/resources/2019-08-15-trust-no-one-run-everywhere-introducing-enarx"
+  },
+  "nextItem": {
+    "title": "Announcing Enarx",
+    "permalink": "/resources/2019-05-06-announcing-enarx"
+  }
+}

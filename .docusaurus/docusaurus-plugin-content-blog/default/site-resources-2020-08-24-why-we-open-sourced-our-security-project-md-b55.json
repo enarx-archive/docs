@@ -1,0 +1,32 @@
+{
+  "permalink": "/resources/2020-08-24-why-we-open-sourced-our-security-project",
+  "source": "@site/resources/2020-08-24-why-we-open-sourced-our-security-project.md",
+  "title": "Why we open sourced our security project",
+  "description": "When Nathaniel McCallum and I embarked on the project that is now called Enarx, we made one decision right at the beginning: the code for Enarx would  be open source, a stance fully supported by our employer, Red Hat (see the standard disclaimer on my blog). All of it, and forever.",
+  "date": "2020-08-24T00:00:00.000Z",
+  "formattedDate": "August 24, 2020",
+  "tags": [
+    {
+      "label": "Article",
+      "permalink": "/resources/tags/article"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Mike Bursell",
+      "title": "Co-founder of Enarx",
+      "url": "https://github.com/MikeCamel",
+      "imageURL": "https://github.com/MikeCamel.png",
+      "key": "mike"
+    }
+  ],
+  "prevItem": {
+    "title": "2020-08-25 Outreach Meeting",
+    "permalink": "/resources/2020/08/25/outreach-meeting"
+  },
+  "nextItem": {
+    "title": "2020-08-18 Outreach Meeting",
+    "permalink": "/resources/2020/08/18/outreach-meeting"
+  }
+}

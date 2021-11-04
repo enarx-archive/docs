@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Technical/Runtime",
+  "id": "Technical/Runtime",
+  "isDocsHomePage": false,
+  "title": "Runtime",
+  "description": "Enarx runtime requires the following:",
+  "source": "@site/docs/Technical/Runtime.md",
+  "sourceDirName": "Technical",
+  "slug": "/Technical/Runtime",
+  "permalink": "/docs/Technical/Runtime",
+  "editUrl": "https://github.com/enarx/docs/blob/main/docs/Technical/Runtime.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Components",
+    "permalink": "/docs/Technical/Components"
+  },
+  "next": {
+    "title": "WebAssembly",
+    "permalink": "/docs/Technical/WebAssembly"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "permalink": "/resources/2021-01-11-enarx-end-to-end-complete",
+  "source": "@site/resources/2021-01-11-enarx-end-to-end-complete.md",
+  "title": "Enarx end-to-end complete!",
+  "description": "We now have a fully working end-to-end proof of concept, with no smoke and mirrors.",
+  "date": "2021-01-11T00:00:00.000Z",
+  "formattedDate": "January 11, 2021",
+  "tags": [
+    {
+      "label": "Mike's Blog",
+      "permalink": "/resources/tags/mikes-blog"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Mike Bursell",
+      "title": "Co-founder of Enarx",
+      "url": "https://github.com/MikeCamel",
+      "imageURL": "https://github.com/MikeCamel.png",
+      "key": "mike"
+    }
+  ],
+  "prevItem": {
+    "title": "A Technical Introduction to Enarx",
+    "permalink": "/resources/2021-01-27-a-technical-introduction-to-enarx"
+  },
+  "nextItem": {
+    "title": "2021-01-05 Outreach Meeting",
+    "permalink": "/resources/2021/01/05/outreach-meeting"
+  }
+}

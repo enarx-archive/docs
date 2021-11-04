@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Technical/Cases",
+  "id": "Technical/Cases",
+  "isDocsHomePage": false,
+  "title": "Use Cases",
+  "description": "These are the initial use cases for Enarx. We expect that more will come up, and work is in progress to help specific industries and groups understand the benefit of Enarx and Confidential Computing.",
+  "source": "@site/docs/Technical/Cases.md",
+  "sourceDirName": "Technical",
+  "slug": "/Technical/Cases",
+  "permalink": "/docs/Technical/Cases",
+  "editUrl": "https://github.com/enarx/docs/blob/main/docs/Technical/Cases.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Intel-SGX-Measurement",
+    "permalink": "/docs/Technical/Intel-SGX-Measurement"
+  },
+  "next": {
+    "title": "FAQ",
+    "permalink": "/docs/Technical/FAQ"
+  }
+}

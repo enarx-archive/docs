@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Contributing/RFCs",
+  "id": "Contributing/RFCs",
+  "isDocsHomePage": false,
+  "title": "RFCs",
+  "description": "The Enarx project welcomes contributions!",
+  "source": "@site/docs/Contributing/RFCs.md",
+  "sourceDirName": "Contributing",
+  "slug": "/Contributing/RFCs",
+  "permalink": "/docs/Contributing/RFCs",
+  "editUrl": "https://github.com/enarx/docs/blob/main/docs/Contributing/RFCs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bugs",
+    "permalink": "/docs/Contributing/Bugs"
+  },
+  "next": {
+    "title": "Docs",
+    "permalink": "/docs/Contributing/Docs"
+  }
+}

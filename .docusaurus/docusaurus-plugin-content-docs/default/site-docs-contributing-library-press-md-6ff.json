@@ -1,0 +1,15 @@
+{
+  "unversionedId": "Contributing/Library-–-Press",
+  "id": "Contributing/Library-–-Press",
+  "isDocsHomePage": false,
+  "title": "Enarx library",
+  "description": "This page contains material that might help you get a deeper understanding of what Enarx is trying to achieve and the technical state of the art surrounding the project.",
+  "source": "@site/docs/Contributing/Library-–-Press.md",
+  "sourceDirName": "Contributing",
+  "slug": "/Contributing/Library-–-Press",
+  "permalink": "/docs/Contributing/Library-–-Press",
+  "editUrl": "https://github.com/enarx/docs/blob/main/docs/Contributing/Library-–-Press.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

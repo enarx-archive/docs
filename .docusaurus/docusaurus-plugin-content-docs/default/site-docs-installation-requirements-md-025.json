@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Installation/Requirements",
+  "id": "Installation/Requirements",
+  "isDocsHomePage": false,
+  "title": "Requirements",
+  "description": "Setting up an SGX machine",
+  "source": "@site/docs/Installation/Requirements.md",
+  "sourceDirName": "Installation",
+  "slug": "/Installation/Requirements",
+  "permalink": "/docs/Installation/Requirements",
+  "editUrl": "https://github.com/enarx/docs/blob/main/docs/Installation/Requirements.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/Installation/Introduction"
+  },
+  "next": {
+    "title": "Initial Setup",
+    "permalink": "/docs/Installation/Setup"
+  }
+}

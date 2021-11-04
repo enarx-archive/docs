@@ -1,0 +1,28 @@
+{
+  "permalink": "/resources/2020-09-21-confidential-computing—the-emerging-paradigm-for-protecting-data-in-use",
+  "source": "@site/resources/2020-09-21-confidential-computing—the-emerging-paradigm-for-protecting-data-in-use.md",
+  "title": "Confidential Computing—the emerging paradigm for protecting data in-use",
+  "description": "As computing moves to span multiple environments—from on-prem to public cloud to edge computing—organizations need security controls that can safeguard sensitive intellectual property (IP) and workload data wherever the data resides. Highly regulated applications and mission critical applications need data protection through all its modalities—at-rest, in-transit and in-use, for companies to migrate the data to the cloud where there is a lack of control and visibility in a multitenant environment. As an industry we have generally figured out how to protect data at-rest, and, in-transit. Confidential Computing (CC) is an emerging industry paradigm focused on securing the data in-use.",
+  "date": "2020-09-21T00:00:00.000Z",
+  "formattedDate": "September 21, 2020",
+  "tags": [
+    {
+      "label": "Article",
+      "permalink": "/resources/tags/article"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Intel IT Peer Network"
+    }
+  ],
+  "prevItem": {
+    "title": "Better security for Cloud, IoT, and the Edge: Enarx",
+    "permalink": "/resources/2020-09-22-better-security-for-cloud-iot-and-the-edge-enarx"
+  },
+  "nextItem": {
+    "title": "Top 10 Digital Transformation Trends For 2021",
+    "permalink": "/resources/2020-09-20-top-10-digital-transformation-trends-for-2021"
+  }
+}

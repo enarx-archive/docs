@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Installation/Conclusion",
+  "id": "Installation/Conclusion",
+  "isDocsHomePage": false,
+  "title": "Conclusion",
+  "description": "Congratulations! You were able to run Enarx successfully!",
+  "source": "@site/docs/Installation/Conclusion.md",
+  "sourceDirName": "Installation",
+  "slug": "/Installation/Conclusion",
+  "permalink": "/docs/Installation/Conclusion",
+  "editUrl": "https://github.com/enarx/docs/blob/main/docs/Installation/Conclusion.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Running Enarx",
+    "permalink": "/docs/Installation/Wasm"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/docs/Contributing/Introduction"
+  }
+}

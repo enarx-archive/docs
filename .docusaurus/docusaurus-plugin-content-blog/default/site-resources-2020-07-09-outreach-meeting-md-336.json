@@ -1,0 +1,30 @@
+{
+  "permalink": "/resources/2020/07/09/outreach-meeting",
+  "source": "@site/resources/2020-07-09-outreach-meeting.md",
+  "title": "2020-07-09 Outreach Meeting",
+  "description": "Ben",
+  "date": "2020-07-09T00:00:00.000Z",
+  "formattedDate": "July 9, 2020",
+  "tags": [
+    {
+      "label": "Meeting",
+      "permalink": "/resources/tags/meeting"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Enarx",
+      "imageURL": "https://github.com/enarxbot.png",
+      "key": "enarx"
+    }
+  ],
+  "prevItem": {
+    "title": "2020-07-16 Outreach Meeting",
+    "permalink": "/resources/2020/07/16/outreach-meeting"
+  },
+  "nextItem": {
+    "title": "Enarx – project maturity update",
+    "permalink": "/resources/2020-06-30-enarx-project-maturity-update"
+  }
+}

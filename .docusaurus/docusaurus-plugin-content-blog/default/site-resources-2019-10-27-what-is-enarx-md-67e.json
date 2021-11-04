@@ -1,0 +1,32 @@
+{
+  "permalink": "/resources/2019-10-27-what-is-enarx",
+  "source": "@site/resources/2019-10-27-what-is-enarx.md",
+  "title": "What is Enarx?",
+  "description": "What is Enarx (https://enarx.io/)and why do we need it?",
+  "date": "2019-10-27T00:00:00.000Z",
+  "formattedDate": "October 27, 2019",
+  "tags": [
+    {
+      "label": "Event",
+      "permalink": "/resources/tags/event"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Mike Bursell",
+      "title": "Co-founder of Enarx",
+      "url": "https://github.com/MikeCamel",
+      "imageURL": "https://github.com/MikeCamel.png",
+      "key": "mike"
+    }
+  ],
+  "prevItem": {
+    "title": "Enarx goes multi-platform",
+    "permalink": "/resources/2019-10-28-enarx-goes-multi-platform"
+  },
+  "nextItem": {
+    "title": "Confidential computing - The next new norm",
+    "permalink": "/resources/2019-10-16-confidential-computing-the-next-new-norm"
+  }
+}

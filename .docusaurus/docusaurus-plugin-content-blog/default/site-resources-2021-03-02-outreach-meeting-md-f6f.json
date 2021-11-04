@@ -1,0 +1,30 @@
+{
+  "permalink": "/resources/2021/03/02/outreach-meeting",
+  "source": "@site/resources/2021-03-02-outreach-meeting.md",
+  "title": "2021-03-02 Outreach Meeting",
+  "description": "Mike B",
+  "date": "2021-03-02T00:00:00.000Z",
+  "formattedDate": "March 2, 2021",
+  "tags": [
+    {
+      "label": "Meeting",
+      "permalink": "/resources/tags/meeting"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Enarx",
+      "imageURL": "https://github.com/enarxbot.png",
+      "key": "enarx"
+    }
+  ],
+  "prevItem": {
+    "title": "2021-03-16 Outreach Meeting",
+    "permalink": "/resources/2021/03/16/outreach-meeting"
+  },
+  "nextItem": {
+    "title": "Rust, WebAssembly and open source",
+    "permalink": "/resources/2021-02-05-rust-webassembly-and-open-source"
+  }
+}

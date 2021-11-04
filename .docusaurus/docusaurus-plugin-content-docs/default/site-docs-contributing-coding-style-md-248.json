@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Contributing/Coding-Style",
+  "id": "Contributing/Coding-Style",
+  "isDocsHomePage": false,
+  "title": "Coding Style",
+  "description": "The Enarx project follows the Rust coding guidelines.",
+  "source": "@site/docs/Contributing/Coding-Style.md",
+  "sourceDirName": "Contributing",
+  "slug": "/Contributing/Coding-Style",
+  "permalink": "/docs/Contributing/Coding-Style",
+  "editUrl": "https://github.com/enarx/docs/blob/main/docs/Contributing/Coding-Style.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Code",
+    "permalink": "/docs/Contributing/Code"
+  },
+  "next": {
+    "title": "PRs",
+    "permalink": "/docs/Contributing/PRs"
+  }
+}

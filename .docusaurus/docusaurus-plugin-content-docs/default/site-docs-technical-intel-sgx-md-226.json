@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Technical/Intel-SGX",
+  "id": "Technical/Intel-SGX",
+  "isDocsHomePage": false,
+  "title": "Intel SGX",
+  "description": "Hardware requirements",
+  "source": "@site/docs/Technical/Intel-SGX.md",
+  "sourceDirName": "Technical",
+  "slug": "/Technical/Intel-SGX",
+  "permalink": "/docs/Technical/Intel-SGX",
+  "editUrl": "https://github.com/enarx/docs/blob/main/docs/Technical/Intel-SGX.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AMD-SNP",
+    "permalink": "/docs/Technical/AMD-SNP"
+  },
+  "next": {
+    "title": "Intel-SGX-Measurement",
+    "permalink": "/docs/Technical/Intel-SGX-Measurement"
+  }
+}

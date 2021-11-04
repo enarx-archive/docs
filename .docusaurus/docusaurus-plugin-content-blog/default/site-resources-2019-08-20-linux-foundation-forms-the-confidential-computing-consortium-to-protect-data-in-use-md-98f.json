@@ -1,0 +1,28 @@
+{
+  "permalink": "/resources/2019-08-20-linux-foundation-forms-the-confidential-computing-consortium-to-protect-data-in-use",
+  "source": "@site/resources/2019-08-20-linux-foundation-forms-the-confidential-computing-consortium-to-protect-data-in-use.md",
+  "title": "Linux Foundation Forms the Confidential Computing Consortium to Protect Data In Use",
+  "description": "When it comes to data security, there are two standard states where encryption is applied — at rest and in motion. When data is in use, however, it is most often left unencrypted. The Linux Foundation has assembled the Confidential Computing Consortium to define and accelerate the adoption of encrypted data in use, or “confidential computing.”",
+  "date": "2019-08-20T00:00:00.000Z",
+  "formattedDate": "August 20, 2019",
+  "tags": [
+    {
+      "label": "Article",
+      "permalink": "/resources/tags/article"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Mike Melanson"
+    }
+  ],
+  "prevItem": {
+    "title": "Intel, IBM, Google, Microsoft & others join new security-focused industry group",
+    "permalink": "/resources/2019-08-20-intel-ibm-google-microsoft-&-others-join-new-security-focused-industry-group"
+  },
+  "nextItem": {
+    "title": "New Cross-Industry Effort to Advance Computational Trust and Security for Next-Generation Cloud and Edge Computing",
+    "permalink": "/resources/2019-08-20-new-cross-industry-effort-to-advance-computational-trust-and-security-for-next-generation-cloud-and-edge-computing"
+  }
+}

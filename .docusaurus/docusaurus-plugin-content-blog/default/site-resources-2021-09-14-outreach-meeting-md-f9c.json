@@ -1,0 +1,30 @@
+{
+  "permalink": "/resources/2021/09/14/outreach-meeting",
+  "source": "@site/resources/2021-09-14-outreach-meeting.md",
+  "title": "2021-09-14 Outreach Meeting",
+  "description": "* axel",
+  "date": "2021-09-14T00:00:00.000Z",
+  "formattedDate": "September 14, 2021",
+  "tags": [
+    {
+      "label": "Meeting",
+      "permalink": "/resources/tags/meeting"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Enarx",
+      "imageURL": "https://github.com/enarxbot.png",
+      "key": "enarx"
+    }
+  ],
+  "prevItem": {
+    "title": "Panel Discussion: Evolving the Confidential Computing Consortium: Non-profit Collaboration for Growth",
+    "permalink": "/resources/2021-09-27-panel-discussion-evolving-the-confidential-computing-consortium-non-profit-collaboration-for-growth"
+  },
+  "nextItem": {
+    "title": "Understanding TEE Containers, Easy to Use? Hard to Trust",
+    "permalink": "/resources/2021-09-03-understanding-tee-containers-easy-to-use-hard-to-trust"
+  }
+}

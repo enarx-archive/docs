@@ -1,0 +1,36 @@
+{
+  "permalink": "/resources/2021-10-26-alamo-first-release",
+  "source": "@site/resources/2021-10-26-alamo-first-release.md",
+  "title": "Alamo: First Release",
+  "description": "This week, the Enarx project has finally reached a huge milestone: its first release, version 0.1.0, called Alamo – a reference to the Alamo fortress in Santo Antonio, Texas, and a tribute to Enarx's initial code base first announced in Texas.",
+  "date": "2021-10-26T00:00:00.000Z",
+  "formattedDate": "October 26, 2021",
+  "tags": [
+    {
+      "label": "Enarx's Blog",
+      "permalink": "/resources/tags/enarxs-blog"
+    },
+    {
+      "label": "Release",
+      "permalink": "/resources/tags/release"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Nathaniel McCallum",
+      "title": "Co-founder of Enarx",
+      "url": "https://github.com/npmccallum",
+      "imageURL": "https://github.com/npmccallum.png",
+      "key": "nathaniel"
+    }
+  ],
+  "prevItem": {
+    "title": "Confidential Computing – The Next Frontier in Data Security",
+    "permalink": "/resources/2021-10-27-confidential-computing-the-next-frontier-in-data-security"
+  },
+  "nextItem": {
+    "title": "2021-10-26 Outreach Meeting",
+    "permalink": "/resources/2021/10/26/outreach-meeting"
+  }
+}

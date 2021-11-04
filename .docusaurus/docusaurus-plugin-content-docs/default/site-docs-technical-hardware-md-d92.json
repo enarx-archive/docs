@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Technical/Hardware",
+  "id": "Technical/Hardware",
+  "isDocsHomePage": false,
+  "title": "Hardware and CPU",
+  "description": "This page lists Trusted Execution Environment-enabled hardware.",
+  "source": "@site/docs/Technical/Hardware.md",
+  "sourceDirName": "Technical",
+  "slug": "/Technical/Hardware",
+  "permalink": "/docs/Technical/Hardware",
+  "editUrl": "https://github.com/enarx/docs/blob/main/docs/Technical/Hardware.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Syscall Proxy",
+    "permalink": "/docs/Technical/Syscall-Proxy"
+  },
+  "next": {
+    "title": "Reproducible Builds",
+    "permalink": "/docs/Technical/Builds"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "permalink": "/resources/2020-06-28-running-sensitive-workloads-on-untrusted-hosts-project-enarx",
+  "source": "@site/resources/2020-06-28-running-sensitive-workloads-on-untrusted-hosts-project-enarx.md",
+  "title": "Running Sensitive Workloads on Untrusted Hosts: Project Enarx",
+  "description": "Running Sensitive Workloads on Untrusted Hosts: Project Enarx",
+  "date": "2020-06-28T00:00:00.000Z",
+  "formattedDate": "June 28, 2020",
+  "tags": [
+    {
+      "label": "Event",
+      "permalink": "/resources/tags/event"
+    }
+  ],
+  "truncated": false,
+  "authors": [
+    {
+      "name": "Mike Bursell",
+      "title": "Co-founder of Enarx",
+      "url": "https://github.com/MikeCamel",
+      "imageURL": "https://github.com/MikeCamel.png",
+      "key": "mike"
+    },
+    {
+      "name": "Nathaniel McCallum",
+      "title": "Co-founder of Enarx",
+      "url": "https://github.com/npmccallum",
+      "imageURL": "https://github.com/npmccallum.png",
+      "key": "nathaniel"
+    }
+  ],
+  "prevItem": {
+    "title": "Enarx - secured, attested execution on any cloud",
+    "permalink": "/resources/2020-06-28-enarx-secured-attested-execution-on-any-cloud"
+  },
+  "nextItem": {
+    "title": "2020-06-26 Outreach Meeting",
+    "permalink": "/resources/2020/06/26/outreach-meeting"
+  }
+}
