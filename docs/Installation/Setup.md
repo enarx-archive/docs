@@ -36,6 +36,25 @@ Note: you may want to add that final `source` command to a `~/.profile`,
 `~/.bashrc` / or `~/.bash_profile` equivalent, otherwise you must remember
 to source that file prior to building `enarx`.
 
+### CentOS 7 / Scientific Linux 7 and other clones
+
+    $ sudo yum install centos-release-scl-rh
+    
+or search for the package on https://centos.pkgs.org/ and install it manually with e.g.
+
+    $ sudo yum install http://mirror.centos.org/centos/7/extras/x86_64/Packages/centos-release-scl-rh-2-3.el7.centos.noarch.rpm
+
+and then
+
+    $ sudo yum install yum-plugin-copr    
+    $ sudo yum copr enable ngompa/musl-libc
+    $ sudo yum install git curl gcc-toolset-9 openssl-devel musl-gcc
+    $ source "/opt/rh/gcc-toolset-9/enable"
+
+Note: you may want to add that final `source` command to a `~/.profile`,
+`~/.bashrc` / or `~/.bash_profile` equivalent, otherwise you must remember
+to source that file prior to building `enarx`.
+
 ### Debian / Ubuntu
 
     $ sudo apt update
