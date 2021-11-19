@@ -48,7 +48,7 @@ and then
 
     $ sudo yum install yum-plugin-copr    
     $ sudo yum copr enable ngompa/musl-libc
-    $ sudo yum install git curl gcc-toolset-9 openssl-devel musl-gcc
+    $ sudo yum install git curl devtoolset-9 openssl-devel musl-gcc
     $ source "/opt/rh/gcc-toolset-9/enable"
 
 Note: you may want to add that final `source` command to a `~/.profile`,
