@@ -55,6 +55,8 @@ Note: you may want to add that final `source` command to a `~/.profile`,
 `~/.bashrc` / or `~/.bash_profile` equivalent, otherwise you must remember
 to source that file prior to building `enarx`.
 
+Instead of `devtoolset-9` you can choose `devtoolset-10` or later versions.
+
 ### Debian / Ubuntu
 
     $ sudo apt update
