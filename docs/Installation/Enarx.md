@@ -1,9 +1,11 @@
 # Installing Enarx
 
+You can install Enarx from crates.io, GitHub, or Nix.
+
 ## Install directly from crates.io
 
     $ cargo +nightly install --bin enarx -- enarx
-
+    
 ## Install from GitHub
 
     $ git clone https://github.com/enarx/enarx
@@ -12,7 +14,7 @@
 
     $ cargo install --bin enarx --path ./
 
-## Nix
+## Install from Nix
 
 Users with `nix` package manager installed (see https://nixos.org) should be able to just do in the checked out repository:
 

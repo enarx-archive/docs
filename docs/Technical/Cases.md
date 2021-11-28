@@ -29,5 +29,6 @@ Filippe is an application developer for a big European bank. The challenge he ha
 Charley is a security architect for a major telecoms provider which wants to deploy applications to “the Edge”: servers in locations which are not secure such as sports stadia, small businesses and town halls.  She needs to ensure that the data processed by the applications (which may include customer details) cannot be stolen if somebody compromises any of the servers. She also needs to ensure that the data and processing can’t be modified by a non-authorized user or application.
 
 ## 7 - Pierre - "Network security functions"
-Pierre is a network security operator who want to orchestrate different network security functions like firewalls, deep packet inspection to NFV (network functions virtualization) environment. He want to make sure that the network security function is deployed integrally. Since the network security functions are confidential, he also want to make sure the network security functions cannot be accessed by unauthorized NFV hosts.  
+Pierre is a network security operator who want to orchestrate different network security functions like firewalls, deep packet inspection to NFV (network functions virtualization) environment. He wants to make sure that the network security function is deployed integrally. Since the network security functions are confidential, he also wants to make sure the network security functions cannot be accessed by unauthorized NFV hosts.  
+
 Reference: draft-ietf-i2nsf-applicability-18

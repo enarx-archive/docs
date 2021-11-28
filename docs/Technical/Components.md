@@ -19,7 +19,7 @@ An application which is going to run in an Enarx Keep needs to attest two things
 From the client’s point of view, the attestation steps of Enarx end up with the following two cryptographically validated assertions:
 1. The TEE type and version;
 1. The Enarx version and integrity.
-The attestation processes associated with the various hardware architectures are very different (see [SEV architectural](https://github.com/enarx/enarx/wiki/SEV-architectural) and [SGX architectural](https://github.com/enarx/enarx/wiki/SGX-architectural)): providing a common mechanism to abstract this is expected to be a major part of the work associated with this project.
+The attestation processes associated with the various hardware architectures are very different (see [SEV architectural](AMD-SEV) and [SGX architectural](Intel-SGX)): providing a common mechanism to abstract this is expected to be a major part of the work associated with this project.
 
 ## Enarx API & core
 This project actually defines the WASI APIs and manages the attestation for all of the TEEs.  It leverages the Enarx runtime.

@@ -6,7 +6,7 @@ Would you like to help with the development of Enarx?
 This page will guide you towards submitting your first pull request.
  
 There are many different skills needed to build Enarx, from low-level assembly
-code for platform-specific enablement (think SGX, SEV, etc.) to kernel-related  
+code for platform-specific enablement (think SGX, SEV, etc.) to kernel-related
 work, from WebAssembly to building and maintaining our infrastructure and automated
 integration and testing (CI/CD), and more, so please don't hesitate to try your
 hand at any of these or to come and talk to us.
@@ -16,8 +16,7 @@ first issue](https://github.com/enarx/enarx/issues?q=is%3Aissue+is%3Aopen+label%
  
 #### Note on issue and bug tracking
 To get a better understanding of how we track issues and bugs, we recommend you
-also read the [How to contribute: bug
-reporting](Bugs) page.
+also read the [How to contribute: bug reporting](Bugs) page.
 
 
 ***
@@ -35,7 +34,7 @@ reporting](Bugs) page.
 ## Code of Conduct
 The Enarx project aims to be a welcoming and inclusive community, and to this
 end adheres to and enforces the Contributor Covenant code of conduct. You can read it
-[here](https://github.com/enarx/.github/blob/master/CODE_OF_CONDUCT.md).
+[here](https://github.com/enarx/.github/blob/main/CODE_OF_CONDUCT.md).
  
 ## Code
 
@@ -71,7 +70,6 @@ With this general plan in mind, there are a few more recommendations you should 
 3. only have 1-3 issues assigned to you at any time.
 4. when you complete an issue, [submit a PR](PRs). Mention that issue in the PR ("closes #123")
 5. review other folks' PRs.
-6. listen to [Mark](https://github.com/mbestavros), who will be hassling you if the above doesn't happen.
  
 We are always willing to discuss ways to improve this set of guidelines, if for any reason you feel they aren't working.
 
@@ -85,7 +83,7 @@ In practice, this means code committed to the project must be signed-off, using
 `git commit -s`, which will result in a commit message ending in something like:
 > Signed-off by Nathaniel McCallum <nathaniel@profian.com>
 
-You can read the text of the DCO on the [DCO's website](https://developercertificate.org/). (We also host [a copy](https://github.com/enarx/.github/blob/master/DEVELOPER_CERTIFICATE_OF_ORIGIN.md) of the text in one of our repos.)
+You can read the text of the DCO on the [DCO's website](https://developercertificate.org/). (We also host [a copy](https://github.com/enarx/.github/blob/main/DEVELOPER_CERTIFICATE_OF_ORIGIN.md) of the text in one of our repos.)
   
  
 ### Coding style
@@ -94,7 +92,7 @@ We adhere to upstream Rust coding style guidelines. For more information about t
 ### Enarx Development Environment set up
 These instructions are still a bit minimal, we will make them more complete in the near future.
 
-Note: we have some lab machines available. More information on how to access and use them on this [wiki page](https://github.com/enarx/enarx/wiki/How-to-use-the-lab-machines).
+Note: we have some lab machines available. More information on how to access and use them on the [Lab page](Lab).
  
 #### Fedora, Red Hat Enterprise Linux (RHEL)
  
@@ -198,7 +196,7 @@ Then add it to your Github profile.
 #### On your local machine
 * If you have not already done so, set your username and email:
   * `git config --global user.name "your name"`
-  * `git config --global user.email "your.em@il.test"`
+  * `git config --global user.email "name@example.com"`
 * Clone your fork locally:
   * `git clone https://github.com/<your_username>/<enarx_repo>`
 * Add an "upstream" remote to your local git repo:
@@ -210,7 +208,7 @@ Then add it to your Github profile.
   * `git checkout -b <your_working_branch>`
 * Make your changes, then add the changed files to the staging area:
   * `git add <file>` (or `git add -a` to take into account all modified files, including deletions)
-* Commit your changes (the "-s" is to sign-off your commits, cf. [DCO section](https://github.com/enarx/enarx/wiki/How-to-contribute-code#developer-certificate-of-origin))
+* Commit your changes (the "-s" is to sign-off your commits, cf. [DCO section](#developer-certificate-of-origin))
   * `git commit -s -m "commit message here"`
 * Push your changes:
   * `git push`
@@ -232,13 +230,13 @@ Also, make sure that your commit messages follow these conventions in order to b
 As the project keeps moving, the code base will change. Once changes have been made to the Enarx repo, to keep your local version of the code up to date:
 * [Sync the fork](https://help.github.com/en/articles/syncing-a-fork):
   * `git fetch upstream`
-* Ensure you are on your master branch:
-  * `git checkout master`
-* Make sure your local master branch is up to date with the upstream (that any commits you've made that aren't already in upstream/master are replayed on top of that other branch):
-  * `git rebase upstream/master`
+* Ensure you are on your main branch:
+  * `git checkout main`
+* Make sure your local main branch is up to date with the upstream (that any commits you've made that aren't already in upstream/main are replayed on top of that other branch):
+  * `git rebase upstream/main`
  
 From then on, you can go on to making changes again on your working branch, committing them etc..
 
 
 ### Enarx Lab machines
-We have some lab machines available. More information on how to access and use them on this [wiki page](Lab).
+We have some lab machines available. More information on how to access and use them on this [Lab page](Lab).

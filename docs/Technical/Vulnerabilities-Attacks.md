@@ -2,7 +2,7 @@
 
 This page will attempt to list the know vulnerabilities of the various TEEs of interest to the Enarx project, as well as their status ("fixed in version X") and workarounds, if any.
 
-They are organised by technology and by date, trying to separate between attacks relating to the hardware itself and those relating to their repsective SDKs.
+They are organised by technology and by date, trying to separate between attacks relating to the hardware itself and those relating to their respective SDKs.
 
 Each technology will also be introduced by a section presenting its inherent limitations: while not vulnerabilites *per se*, as they are part of of the respective threat models, they can be useful to have in mind when considering the overall picture.
 

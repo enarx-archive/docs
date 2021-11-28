@@ -33,7 +33,7 @@ These three components will be tightly coupled and shipped as an integrated syst
 
 ### Syscall Proxying
 
-[[images/syscall_proxy.svg|Enarx Syscall Proxy]]
+![Enarx Syscall Proxy](/img/syscall_proxy.svg)
 
 In order to keep the TCB small, especially the exclusion of a full network stack, we intend to proxy syscalls to the host. This allows us to use as many of the host resources as possible while maintaining a small Keep size. It also allows for performance optimizations as Enarx gets more mature.  The above chart shows a full trace of a single syscall across the various components. This works as follows:
 

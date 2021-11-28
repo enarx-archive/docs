@@ -2,7 +2,7 @@
 
 Exactly what layers in the stack trust each other is a key issue for Enarx.  This diagram gives a simple view of the various layers in the VM case (e.g. with [AMD SEV](https://github.com/enarx/enarx/wiki/SEV-architectural)), and what their role is.
 
-![Enarx trust architecture (VM case)](https://github.com/enarx/enarx.github.io/blob/master/assets/images/trust-architecture.png)
+![Enarx trust architecture (VM case)](https://raw.githubusercontent.com/enarx/enarx.github.io/main/assets/images/trust-architecture.png)
 
 Enarx provides four layers in the run-time stack.  Working from the lowest up, they are:
 1. a VMM (Virtual Memory Manager)
@@ -12,7 +12,7 @@ Enarx provides four layers in the run-time stack.  Working from the lowest up, t
 
 All of these are cryptographically measured and checked at runtime before each deployment.  They are not the only layers in the stack, however.  Others include the CPU (in which layer we also include CPU firmware), the host kernel and the application itself.  See below for a little more detail about the trust architecture.
 
-Note: Enarx does not use a TPM as part of its trust architecture.  See [Is Enarx a host attestation project?](FAQ#is-enarx-a-host-attestation-project) and [Does Enarx use/need a TPM?](FAQ#does-enarx-useneed-a-tpm) on the Wiki [FAQ page](FAQ) for more details.
+Note: Enarx does not use a TPM as part of its trust architecture.  See [Is Enarx a host attestation project?](FAQ#is-enarx-a-host-attestation-project) and [Does Enarx use/need a TPM?](FAQ#does-enarx-useneed-a-tpm) on the [FAQ page](FAQ) for more details.
 
 In this discussion, the party doing the trusting (the "trustor") is the tenant, or client: the entity wishing to execute a workload, referred to in this architecture as the "application".  A fundamental principle of the Enarx project is that the client does *not* trust the host, its owner or operator.  Although the host's owner (or the host's operator) may have trust requirements, these are not addressed in this discussion.
 
@@ -55,4 +55,4 @@ The application layer is the workload provided by the client to run within the E
 
 ## Diagram of Enarx components
 Here is another view of the detail of Enarx components:  
-![Enarx component details image](https://github.com/enarx/enarx.github.io/blob/master/assets/images/enarx-component-detail.png)
+![Enarx component details image](https://raw.githubusercontent.com/enarx/enarx.github.io/main/assets/images/enarx-component-detail.png)

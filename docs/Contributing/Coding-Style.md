@@ -27,7 +27,7 @@ Fortunately, this is an easy requirement to satisfy using [`rustfmt`](https://gi
 ## Commit etiquette
 Pull requests to Enarx repositories should contain **logical commits**. In other words, commits should only contain changes relevant to one feature or component of the code. This helps repositories maintain a coherent and understandable history of code changes.
 
-To that end, **merge commits are strictly not allowed**. It is expected that any code up for a pull request will be rebased on top of the upstream Enarx repository's `master` branch. Fast-forward-only merges are acceptable if needed.
+To that end, **merge commits are strictly not allowed**. It is expected that any code up for a pull request will be rebased on top of the upstream Enarx repository's `main` branch. Fast-forward-only merges are acceptable if needed.
 
 We recommend reading this [excellent article](https://chris.beams.io/posts/git-commit/) to understand how to write a good git commit message.
 
