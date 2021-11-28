@@ -20,6 +20,10 @@
   background-color: #151719 !important;
 }
 
+.footer__links {
+  margin-bottom: 3rem;
+}
+
 .hero__title, .hero__subtitle {
   color: white;
 }
@@ -37,4 +41,12 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 
 html[data-theme='dark'] .navbar__logo img {
   filter: invert(1) hue-rotate(180deg);
+}
+
+html[data-theme='dark'] svg {
+  filter: invert(1) hue-rotate(180deg);
+}
+
+.navbar__items > span {
+  margin-top: 8px;
 }

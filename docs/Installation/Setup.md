@@ -2,19 +2,10 @@
 
 ## Install Dependencies
 
-### Fedora
-
-    $ sudo dnf install git curl gcc pkg-config openssl-devel musl-gcc
-
 ### Disclaimer
 
 Please note that most Enarx developers use Fedora, so that is the
 distribution where we'll be able to offer most support, if any.
-
-The following configurations are unlikely to be exercised with any
-frequency and as a result, may not work for you. However, they have
-worked at some point in the past and therefore they are listed here
-in the hopes that they might be useful to you.
 
 Please feel free to file a pull request to add your favorite distribution
 if you're able to build and run the Enarx test suite.
@@ -25,6 +16,10 @@ The minimum required `gcc` version is version 9. Something older _might_ build
 binaries (such as integration test binaries), but may silently drop required
 compiler flags. Please ensure you're using the minimum required version of `gcc`.
 Failure to do so might result in weird failures at runtime.
+
+### Fedora
+
+    $ sudo dnf install git curl gcc pkg-config openssl-devel musl-gcc
 
 ### CentOS 8 / Stream
 
@@ -39,17 +34,17 @@ to source that file prior to building `enarx`.
 ### CentOS 7 / Scientific Linux 7 and other clones
 
     $ sudo yum install centos-release-scl-rh
-    
-or search for the package on https://centos.pkgs.org/ and install it manually with e.g.
+
+or search for the package on https://centos.pkgs.org/ and install it manually with, for example:
 
     $ sudo yum install http://mirror.centos.org/centos/7/extras/x86_64/Packages/centos-release-scl-rh-2-3.el7.centos.noarch.rpm
 
-and then
+and then:
 
     $ sudo yum install yum-plugin-copr    
     $ sudo yum copr enable ngompa/musl-libc
     $ sudo yum install git curl devtoolset-9 openssl-devel musl-gcc
-    $ source "/opt/rh/devtoolset-9/enable"
+    $ source "/opt/rh/gcc-toolset-9/enable"
 
 Note: you may want to add that final `source` command to a `~/.profile`,
 `~/.bashrc` / or `~/.bash_profile` equivalent, otherwise you must remember

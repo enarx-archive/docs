@@ -2,7 +2,7 @@
 
 You've followed our [coding style guidelines](Coding-style) and steps on [how to contribute code](Code#working-on-the-code), and now you're ready to submit a PR to Enarx. Here's a quick guide on how to do it.
 
-This guide assumes that you have [forked our repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and are working on a local feature branch of your fork. It also assumes that you have set our repo as a remote named "upstream" on your fork as described [here](https://github.com/enarx/enarx/wiki/How-to-contribute-code#on-your-local-machine).
+This guide assumes that you have [forked our repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and are working on a local feature branch of your fork. It also assumes that you have set our repo as a remote named "upstream" on your fork as described [here](Code#on-your-local-machine).
 
 ### Check that your code is really ready
 
@@ -29,29 +29,29 @@ To give your commit an [appropriately descriptive message](https://chris.beams.i
 
 Alternatively, you can use `git rebase -i HEAD~1`. Mark the commit with `r` or `reword` in the menu that comes up, save and exit from the menu, and you'll be brought to another menu where you can edit the message. This method can also be combined with squashing your commits.
 
-### Rebase onto upstream/master
+### Rebase onto upstream/main
 
-Ideally, you've been incrementally [pulling changes from upstream into your code](https://github.com/enarx/enarx/wiki/How-to-contribute-code#keeping-your-code-up-to-date-with-the-projects-code) as you work. However, sometimes you will finish some work and realize you don't have the latest code from upstream. Fixing this is easy:
+Ideally, you've been incrementally [pulling changes from upstream into your code](Code#keeping-your-code-up-to-date-with-the-projects-code) as you work. However, sometimes you will finish some work and realize you don't have the latest code from upstream. Fixing this is easy:
 
 Make sure you've done a `git commit` on your branch. Ideally you will also have squashed your commits as described above. Then issue:
 
 ```
 git fetch upstream
-git rebase upstream/master
+git rebase upstream/main
 ```
 
 or alternatively:
 
 ```
-git checkout master
-git pull upstream master
+git checkout main
+git pull upstream main
 git checkout <your branch>
-git rebase master
+git rebase main
 ```
 
 Sometimes, there will be conflicts in the files, and that's okay. Resolve the conflict in each file, run `git add <file>` on each file, and then `git rebase --continue`.
 
-`git log` should now show your commit(s) on top of the latest commits from `upstream/master`.
+`git log` should now show your commit(s) on top of the latest commits from `upstream/main`.
 
 ### Submit the pull request
 

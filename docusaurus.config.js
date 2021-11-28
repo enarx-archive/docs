@@ -16,7 +16,13 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'enarx', // Usually your GitHub org/user name.
   projectName: 'enarx', // Usually your repo name.
-
+  scripts: [
+    'https://buttons.github.io/buttons.js',
+    {
+      src: 'https://buttons.github.io/buttons.js',
+      async: true,
+    }
+  ],
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -75,8 +81,13 @@ const config = {
             position: 'left',
           },
           {
-            href: 'https://blog.enarx.dev',
-            label: 'Blog',
+            href: '/meetings',
+            label: 'Meetings',
+            position: 'left',
+          },
+          {
+            href: '/events',
+            label: 'Events',
             position: 'left',
           },
           {
@@ -85,9 +96,14 @@ const config = {
             position: 'left',
           },
           {
-            href: 'https://twitter.com/enarxproject',
-            label: 'Twitter',
-            position: 'left',
+            href: 'https://github.com/enarx/enarx',
+            label: 'Star',
+            position: 'right',
+            className: 'github-button',
+            'data-icon': 'octicon-star',
+            'data-size': 'large',
+            'data-show-count': 'true',
+            'aria-label': "Star enarx/enarx on GitHub"
           },
         ],
       },
@@ -116,15 +132,19 @@ const config = {
             ],
           },
           {
-            title: 'Code + Resources',
+            title: 'Resources',
             items: [
+              {
+                label: 'Resources',
+                to: '/resources',
+              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/enarx/enarx',
               },
               {
-                label: 'Resources',
-                to: '/resources',
+                label: 'Blog',
+                to: 'https://blog.enarx.dev',
               },
             ],
           },
@@ -132,8 +152,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Blog',
-                to: 'https://blog.enarx.dev',
+                label: 'Meetings',
+                to: '/meetings',
+              },
+              {
+                label: 'Events',
+                to: '/events',
               },
               {
                 label: 'Chat',

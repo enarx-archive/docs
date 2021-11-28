@@ -2,8 +2,7 @@
 
 Enarx requires specific hardware to run – and by extension to develop – namely a CPU with a supported Trusted Execution Environment.
 
-Thanks to [Packet.com](https://packet.com), we have some lab machines available, with direct hardware access (bare metal).  
-These machines are open to the community to work on.
+Thanks to [Packet.com](https://packet.com), we have some lab machines available, with direct hardware access (bare metal). These machines are open to the community to work on.
 
 This document explains the rules regarding these machines as well as how to access them and use them.
 
@@ -30,13 +29,15 @@ You can use [one of the previous](https://github.com/enarx/packet.com/pull/17/fi
 
 ## Using the lab machines
 
-We currently have two lab machines:
+We currently have three lab machines:
 
 An AMD SEV box, at rome.sev.lab.enarx.dev.
 
+Another AMD SEV box, at milan.sev.lab.enarx.dev.
+
 An Intel SGX2 box, at coffeelake.sgx.lab.enarx.dev.
 
-Both machines are running Fedora (32, currently), with SELinux enforcing (of course).
+These machines are running Fedora (32, currently), with SELinux enforcing (of course).
 
 ### Connecting to the machines
 
@@ -59,4 +60,5 @@ To do so, follow the instructions in [How to contribute code](Code#rust) and ins
 ### Maintaining long-running sessions
 
 The lab machines have `tmux` installed, which will enable you to leave things running (such as compilation jobs).  
+
 If you are new to tmux, this [crash course](https://thoughtbot.com/blog/a-tmux-crash-course) and [detailed walkthrough](https://thevaluable.dev/tmux-boost-productivity-terminal/) of a possible Tmux workflow may come in handy.

@@ -8,8 +8,6 @@ Here are some ways you can contribute:
 - reporting (or even fixing) any broken links you find
 - reporting  what you think doesn't make sense
 - reporting what you think is missing
-- reporting  on how easy or hard it is to find the "right" information (are
-things organised in a logical way?)
+- reporting  on how easy or hard it is to find the "right" information (are things organised in a logical way?)
 
-To report this, you may use the issue tracker or come talk to us (cf. general "[how to
-contribute](Introduction)" page).
+Feel free to click on the `Edit this page` button to fix any problem, open an [issue](https://github.com/enarx/enarx/labels/documentation), or come talk with us over [chat](https://chat.enarx.dev).

@@ -36,7 +36,7 @@ Would it be possible to implement containers within TEEs?  That depends somewhat
 No.  Enarx uses attestation as part of its workflow, but it is not a host attestation project (like [Keylime](https://github.com/keylime) or [ISECL](https://github.com/intel-secl)). Host attestation projects tackle the issue of trust in the host in a different way to Enarx, by measuring the various layers of the stack - typically at boot-up - to check that they are as expected, and have not been substituted for untrusted pieces.  They typically use TPMs (Trusted Platform Modules) as their hardware root of trust.  Enarx aims to remove the need to trust these layers by taking them out of the stack.  We expect both approaches to coexist, at least until TEEs are ubiquitous and people choose to execute all of their workloads in Enarx Keeps!
 
 ## Does Enarx use/need a TPM?
-No.  Enarx uses TEEs for generic computation, rather than using the capabilities provided by TPMs for more specialised cryptographic operations.  Enarx also does not need a TPM as part of its [trust model](https://github.com/enarx/enarx/wiki/Trust-architecture), which is anchored in the host CPU and firmware.  TPMs are typically used for host attestation, which is a different approach to trust management to that offered by Enarx.
+No.  Enarx uses TEEs for generic computation, rather than using the capabilities provided by TPMs for more specialised cryptographic operations.  Enarx also does not need a TPM as part of its [trust model](Trust-Architecture), which is anchored in the host CPU and firmware.  TPMs are typically used for host attestation, which is a different approach to trust management to that offered by Enarx.
 
 ## Will Enarx support RT (realtime) execution?
 There are currently no plans for Enarx to support RT execution.  The architecture of TEEs means that it would be difficult to make the sorts of guarantees about timely execution that RT applications require, and doing this on top of another operating system (Linux, the host) is not considered feasible at this time.
@@ -50,7 +50,7 @@ Secondly, it is likely to be impossible to mitigate all side-channel attacks, bu
 You can find information on how to get started over at [How to contribute](/docs/Contributing/Introduction).
 
 ## Does Red Hat own Enarx?
-No single company or organisation "owns" Enarx.  It's open source software.   Copyright on code is owned by whoever contributes it to the project.  For more information, try [this definition](https://opensource.com/resources/what-open-source) from [Opensource.com](https://opensource.com) or our [license page](https://github.com/enarx/enarx/blob/master/LICENSE) (spoiler: it's Apache 2.0).
+No single company or organisation "owns" Enarx.  It's open source software.   Copyright on code is owned by whoever contributes it to the project.  For more information, try [this definition](https://opensource.com/resources/what-open-source) from [Opensource.com](https://opensource.com) or our [license page](https://github.com/enarx/enarx/blob/main/LICENSE) (spoiler: it's Apache 2.0).
 
 ## Who writes this stuff?
 Well, [Mike Bursell](https://github.com/MikeCamel) wrote quite a lot of this, which is why it's in pristine British English, with the exception of:
