@@ -52,7 +52,7 @@ yarn serve
 
 ## Contributing to the docs
 
-Click the Fork button in the upper-right area of the screen to create a fork of this repository in your GitHub account. Create a branch off the `master` and make any changes you want in your fork. Create a new pull request to help us know about your proposed changes so that we can provide actionable feedback. As a pull request owner, it is your responsibility to modify your pull request to address the feedback that has been provided to you by the reviewer.
+Click the Fork button in the upper-right area of the screen to create a fork of this repository in your GitHub account. Create a branch off the `main` and make any changes you want in your fork. Create a new pull request to help us know about your proposed changes so that we can provide actionable feedback. As a pull request owner, it is your responsibility to modify your pull request to address the feedback that has been provided to you by the reviewer.
 
 After all the comments are addressed, please let us know and we will merge your pull request. Contributions are welcome to make our documentation more accessible and readable, adding new features to help a wider audience know about Enarx and help onboard new contributors and users.
 
