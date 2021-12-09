@@ -9,7 +9,8 @@ const GuideList = [
     link: '/docs/Start/Introduction',
     description: (
       <>
-        Learn more about Enarx. Documentation includes: Getting Started, Installation Guide, Contributing Guide, and Technical Overview.
+        Learn more about Enarx. Documentation includes: Getting Started, Installation Guide,
+        Contributing Guide, and Technical Overview.
       </>
     ),
   },
@@ -19,7 +20,8 @@ const GuideList = [
     link: '/resources',
     description: (
       <>
-        Find a list of useful resources: from articles, blog posts, podcasts, to videos. Everything Enarx related gathered in one place.
+        Find a list of useful resources: from articles, blog posts, podcasts, to videos. Everything
+        Enarx related gathered in one place.
       </>
     ),
   },
@@ -29,17 +31,19 @@ const GuideList = [
     link: 'https://github.com/enarx/enarx',
     description: (
       <>
-        The source code of Enarx is available at GitHub. You'll also be able to track issues, bugs, pull requests, and release notes.
+        The source code of Enarx is available at GitHub. You&apos;ll also be able to track issues,
+        bugs, pull requests, and release notes.
       </>
     ),
-  },  
+  },
   {
     title: 'Meetings',
     Svg: require('../../static/img/meeting.svg').default,
     link: '/meetings',
     description: (
       <>
-        You are welcome to join the Enarx Daily meetings. These meetings are open to the public. If you are a newcomer, feel free to join and introduce yourself.
+        You are welcome to join the Enarx Daily meetings. These meetings are open to the public. If
+        you are a newcomer, feel free to join and introduce yourself.
       </>
     ),
   },
@@ -49,7 +53,8 @@ const GuideList = [
     link: '/events',
     description: (
       <>
-        The Enarx team is present at the top conferences worldwide, including Linux Security Summit, Open Source Summit, DevConf, and RSA Conference.
+        The Enarx team is present at the top conferences worldwide, including Linux Security Summit,
+        Open Source Summit, DevConf, and RSA Conference.
       </>
     ),
   },
@@ -59,20 +64,25 @@ const GuideList = [
     link: 'https://chat.enarx.dev',
     description: (
       <>
-        Join the chat at chat.enarx.dev and come say hi, read the conversations, and ask questions. We are happy to answer any questions you might have.
+        Join the chat at chat.enarx.dev and come say hi, read the conversations, and ask questions.
+        We are happy to answer any questions you might have.
       </>
     ),
   },
 ];
 
-function Guide({Svg, title, link, description}) {
+function Guide({ Svg, title, link, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <a href={link}><Svg className={styles.guideSvg} alt={title} /></a>
+        <a href={link}>
+          <Svg className={styles.guideSvg} alt={title} />
+        </a>
       </div>
       <div className="text--center padding-horiz--md">
-        <a href={link}><h3>{title}</h3></a>
+        <a href={link}>
+          <h3>{title}</h3>
+        </a>
         <p>{description}</p>
       </div>
     </div>

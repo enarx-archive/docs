@@ -8,16 +8,14 @@ import HomepageFeatures from '../components/HomepageFeatures';
 import HomepageGuide from '../components/HomepageGuide';
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/Start/Introduction">
+          <Link className="button button--secondary button--lg" to="/docs/Start/Introduction">
             Enarx Introduction - 10min ⏱️
           </Link>
         </div>
@@ -27,11 +25,9 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout
-      title={`${siteConfig.title}`}
-      description="Enarx: open source confidential computing">
+    <Layout title={`${siteConfig.title}`} description="Enarx: open source confidential computing">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

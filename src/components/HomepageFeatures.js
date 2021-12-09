@@ -8,7 +8,9 @@ const FeatureList = [
     Svg: require('../../static/img/opensource.svg').default,
     description: (
       <>
-        Enarx is the leading open source framework for running applications in TEEs (Trusted Execution Environments). It's part of the Confidential Computing Consortium from the Linux Foundation.
+        Enarx is the leading open source framework for running applications in TEEs (Trusted
+        Execution Environments). It&apos;s part of the Confidential Computing Consortium from the
+        Linux Foundation.
       </>
     ),
   },
@@ -17,7 +19,9 @@ const FeatureList = [
     Svg: require('../../static/img/deploy.svg').default,
     description: (
       <>
-        Enarx provides a run-time TEE based on WebAssembly, allowing developers to deploy applications without any rewrites from languages like Rust, C/C++, C#, Go, Java, Python, Haskell and many more.
+        Enarx provides a run-time TEE based on WebAssembly, allowing developers to deploy
+        applications without any rewrites from languages like Rust, C/C++, C#, Go, Java, Python,
+        Haskell and many more.
       </>
     ),
   },
@@ -26,13 +30,15 @@ const FeatureList = [
     Svg: require('../../static/img/cloudnative.svg').default,
     description: (
       <>
-        Enarx is CPU-architecture independent, letting developers deploy the same application code transparently across multiple targets. It provides a single run-time and attestation framework which is hardware vendor and CSP neutral.
+        Enarx is CPU-architecture independent, letting developers deploy the same application code
+        transparently across multiple targets. It provides a single run-time and attestation
+        framework which is hardware vendor and CSP neutral.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
