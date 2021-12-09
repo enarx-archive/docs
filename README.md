@@ -64,3 +64,7 @@ You can engage with us on the following channels:
 - [Meetings](https://enarx.dev/meetings)
 
 ----
+
+## License
+
+[MIT License](LICENSE)
